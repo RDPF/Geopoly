@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "GeoPoly: Educational and Maker-Oriented Polyhedra Laboratory"
+message: "If you use GeoPoly, please cite this software."
+type: software
+authors:
+  - family-names: "Pereira Filho"
+    given-names: "Renato Dutra"
+    affiliation: "Universidade Federal do Rio Grande (FURG)"
+    orcid: "https://orcid.org/0000-0002-5411-0745"
+version: "27.3.1"
+date-released: "2026-06-06"
+license: MIT
+references:
+  - type: dataset
+    title: "Exact Johnson Solids"
+    doi: "10.5281/zenodo.10729583"
+
+  - type: article
+    authors:
+      - family-names: "Johnson"
+        given-names: "Norman W."
+    title: "Convex Polyhedra with Regular Faces"
+    year: 1966
+    doi: "10.4153/CJM-1966-021-8"

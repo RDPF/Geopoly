@@ -1,0 +1,33 @@
+{
+  "title": "GeoPoly v27.3.1: JOSS Paper Completion Release",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Pereira Filho, Renato Dutra",
+      "affiliation": "Universidade Federal do Rio Grande (FURG)",
+      "orcid": "0000-0002-5411-0745"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JOSS",
+    "Johnson solids",
+    "batch material optimization",
+    "computational geometry",
+    "education",
+    "fabrication",
+    "polyhedra",
+    "polyhedral nets",
+    "printable nets",
+    "software testing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.10729583",
+      "relation": "cites",
+      "resource_type": "dataset"
+    }
+  ],
+  "description": "Educational and maker-oriented polyhedra laboratory with formal Johnson solids, computationally verified printable nets, fixed-scale tiling, universal export smoke tests, and batch material optimization. Version 27.3.1 completes the JOSS paper, references, ORCID metadata, and README context without changing functional behavior.",
+  "version": "27.3.1"
+}
